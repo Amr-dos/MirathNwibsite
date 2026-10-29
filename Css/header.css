@@ -16,7 +16,7 @@ header {
 header>h1 {
     font-family: 'DecoType Thuluth II', serif;
     font-weight: 500;
-    font-size: 3em;
+    font-size: 3rem;
     margin-top: 0;
     margin-bottom: 0;
     margin-left: -16%;
@@ -146,8 +146,9 @@ header nav:hover {
         display: block;
     }
 
-    h1 {
+    header h1 {
         margin-right: -10%;
+        font-size: 2rem;
 
     }
 
