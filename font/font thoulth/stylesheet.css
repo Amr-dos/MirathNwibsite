@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'DecoType Thuluth II';
+    src: url('DecoTypeThuluthII.woff2') format('woff2'),
+        url('DecoTypeThuluthII.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

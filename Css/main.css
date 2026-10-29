@@ -1,8 +1,12 @@
 @font-face {
-    font-family: 'DecoTypeThuluth';
-    src: url('/font/font1.ttf');
-    font-weight: 100;
+
+    font-family: 'DecoType Thuluth II';
+    src: url('DecoTypeThuluthII.woff2') format('woff2'),
+        url('DecoTypeThuluthII.woff') format('woff');
+    font-weight: normal;
     font-style: normal;
+    font-display: swap;
+
 
 }
 
